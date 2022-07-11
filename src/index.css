@@ -5,6 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align-last: left;
+}
+
+#title, #todoheader {
+  margin-left: 20px;
+}
+
+#todolist {
+  margin-left: -5px;
 }
 
 code {
